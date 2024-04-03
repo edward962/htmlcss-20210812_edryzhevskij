@@ -5,6 +5,9 @@
     display: inline-block;
     height: 48px;
     border-radius: 8px;
+    white-space: nowrap;
+    max-width: 100%;
+    padding: 15px 53px 14px 53px;
 }
 
 .button_primary {
