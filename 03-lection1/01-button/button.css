@@ -2,7 +2,7 @@
 @import '../assets/css/main.css';
 
 .button{
-    width:189px;
+    display: inline-block;
     height: 48px;
     border-radius: 8px;
 }
